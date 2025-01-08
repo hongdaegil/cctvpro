@@ -1,0 +1,4 @@
+train: D:/AI3/study/abc/dataset\train
+val: D:/AI3/study/abc/dataset\val
+nc: 1
+names: ['person']

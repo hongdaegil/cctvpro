@@ -1,0 +1,22 @@
+No objects detected.
+No objects detected.
+No objects detected.
+No objects detected.
+No objects detected.
+No objects detected.
+No objects detected.
+No objects detected.
+No objects detected.
+Class: 0, Confidence: 0.38, BBox: [95.81, 1336.67, 352.34, 1886.16]
+Class: 0, Confidence: 0.61, BBox: [4.19, 666.98, 373.83, 1104.53]
+Class: 0, Confidence: 0.39, BBox: [404.57, 1455.33, 636.71, 1915.65]
+Class: 0, Confidence: 0.37, BBox: [954.50, 643.87, 1277.72, 1151.24]
+Class: 0, Confidence: 0.65, BBox: [260.14, 1464.83, 637.13, 1877.09]
+Class: 0, Confidence: 0.44, BBox: [2.09, 137.34, 336.57, 528.62]
+Class: 0, Confidence: 0.33, BBox: [285.53, 1497.71, 625.48, 1834.01]
+Class: 0, Confidence: 0.33, BBox: [323.21, 1441.80, 638.92, 1777.10]
+Class: 0, Confidence: 0.28, BBox: [384.57, 54.06, 636.04, 572.18]
+Class: 0, Confidence: 0.77, BBox: [9.81, 38.45, 407.55, 493.50]
+Class: 0, Confidence: 0.63, BBox: [12.56, 614.91, 368.75, 1016.49]
+Class: 0, Confidence: 0.76, BBox: [7.26, 35.75, 408.86, 492.83]
+Class: 0, Confidence: 0.65, BBox: [12.56, 614.92, 368.80, 1016.32]

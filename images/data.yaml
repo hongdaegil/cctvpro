@@ -1,0 +1,4 @@
+train: D:/AI3/study/abc/images
+val: D:/AI3/study/abc/images
+nc: 1
+names: ['person']
